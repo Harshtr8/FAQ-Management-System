@@ -24,7 +24,7 @@ This Django project implements a **FAQ System** with **WYSIWYG** editor support,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/harshtr8/faqmanagementsystem
+    git clone https://github.com/Harshtr8/FAQ-Management-System
     cd multilingual_faq
     ```
 
